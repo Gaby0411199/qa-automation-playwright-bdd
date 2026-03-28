@@ -1,0 +1,12 @@
+{
+    
+        "default": {
+          "require": ["steps/**/*.js"],
+          "paths": ["features/**/*.feature"],
+          "format": ["progress-bar"],
+          "publishQuiet": true,
+          "timeout": 30000
+        }
+      
+    }
+  
